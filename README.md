@@ -1,10 +1,10 @@
 # imagesearch
 
-A new Flutter project.
+Image Search Project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is about image searching using pixabay
 
 A few resources to get you started if this is your first Flutter project:
 
