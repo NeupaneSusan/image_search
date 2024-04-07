@@ -1,12 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:imagesearch/controller/image_controller.dart';
+
 import 'package:imagesearch/until/gesture_detector_button.dart';
 import 'package:imagesearch/view/search_text_field.dart';
-import 'package:provider/provider.dart';
 
 import 'color.dart';
 import 'common_value.dart';
-import 'input_decoration.dart';
 
 class CommonAppBar extends StatelessWidget implements PreferredSizeWidget {
   final ValueNotifier<bool>? valueNotifier;
